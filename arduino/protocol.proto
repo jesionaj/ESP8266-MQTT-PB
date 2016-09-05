@@ -1,0 +1,4 @@
+message TemperatureMessage {
+    required int32 clientId = 1;
+    required int32 temperatureValue = 2;
+}
